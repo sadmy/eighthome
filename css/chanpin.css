@@ -97,7 +97,7 @@
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
-img {
+.content3 img {
     vertical-align: middle;
     border: 0;
 }
@@ -131,11 +131,11 @@ img {
     font-family: "Gilroy-Medium", "PingFangSC-Medium", "Microsoft Yahei", "Myriad Pro", "Hiragino Sans GB", sans-serif;
     color: #ff7422;
 }
-h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+.content3 h1, h2, h3, h4, h5, h6, p, ul, ol, li {
     margin: 0;
     padding: 0;
 }
-p {
+.content3 p {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -187,7 +187,7 @@ p {
 .content3 .lab-wrap .learn-more a {
     text-decoration: underline;
 }
-a {
+.content3 a {
     text-decoration: none;
     color: #000000;
     background-color: transparent;
@@ -255,14 +255,14 @@ ol, ul {
 .content3 .title a {
     text-decoration: underline;
 }
-a {
+.content3 a {
     text-decoration: none;
     color: #000000;
     background-color: transparent;
 }
 .content3 .logo-img.xigua {
     background: url(../images/xigua@2x.png) no-repeat center;
-    background-size: cover;
+    background-size:cover;
 }
 .content3 .logo-img {
     display: inline-block;
